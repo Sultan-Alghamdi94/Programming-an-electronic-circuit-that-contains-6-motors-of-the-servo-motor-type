@@ -15,3 +15,4 @@ Connecting wires
 Circuit Diagram:
 Refer to the provided image for the circuit diagram. Connect each potentiometer to the analog input pins A0 to A5 and each servo motor to the digital pins 7 to 12 on the Arduino. Ensure that you also connect the ground and power lines appropriately.
 
+![Screenshot (656)](https://github.com/Sultan-Alghamdi94/Programming-an-electronic-circuit-that-contains-6-motors-of-the-servo-motor-type/assets/174812257/6e74f0e8-b3e5-40c5-9177-585ed46bdb7d)
